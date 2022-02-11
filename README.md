@@ -1,2 +1,2 @@
 # Projeto-REPLICA-Spotify
-Replica do Spotify usando Bootstrap
+Replica do Spotify usando Bootstrap(RESPONSIVO)
